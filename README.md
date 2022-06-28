@@ -15,12 +15,9 @@ React, Node, HTML, JavaScript, CSS, SQL, Python, R, Stata, Latex, AWS, API, AJAX
 
 <h3 align="left">GitHub Stats:</h3>
 <div align='center'>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanand100&show_icons=true&locale=en&layout=compact&exclude_repo=public-vs-private-investment-India" alt="sanand100" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanand100&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="sanand100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanand100&" alt="sanand100" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanand100&" alt="sanand100" /></p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
