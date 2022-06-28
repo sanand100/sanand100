@@ -22,8 +22,8 @@ React, Node, HTML, JavaScript, CSS, SQL, Python, R, Stata, Latex, AWS, API, AJAX
 
 <h3 align="left">Connect with me:</h3>
 
-<a href='https://www.linkedin.com/in/shraddha-anand1/' target=_blank><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30px' width='30px'></a>
-<a href='https://github.com/sanand100' target=_blank><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30px' width='30px'></a>
+<a href='https://www.linkedin.com/in/shraddha-anand1/' target="_blank"><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30px' width='30px'></a>
+<a href='https://github.com/sanand100' target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30px' width='30px'></a>
 [Email](mailto:shraddhaanand2@gmail.com)
 
 <!--
