@@ -10,13 +10,16 @@
 - My Past Experiences: [Resume](https://github.com/sanand100/sanand100/blob/main/ShraddhaAnand_resume.pdf)
 
 
-<h3 align="left">Languages and Tools:</h3>
-React, Node, HTML, JavaScript, CSS, SQL, Python, R, Stata, Latex, AWS, API, AJAX, Git, GitHub
+<h3 align="left">Programming Languages:</h3>
+Java, Python, JavaScript, SQL, HTML, CSS, R, Stata
+
+<h3 align="left">Software:</h3>
+Spring Boot, React, Django, Mongoose, MongoDB, PostgreSQL, Node, Express, Git, GitHub
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanand100&show_icons=true&locale=en&layout=compact&exclude_repo=public-vs-private-investment-India" alt="sanand100" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanand100&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="sanand100" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanand100&" alt="sanand100" /></p>
 </div>
 
@@ -24,5 +27,4 @@ React, Node, HTML, JavaScript, CSS, SQL, Python, R, Stata, Latex, AWS, API, AJAX
 
 <a href='https://www.linkedin.com/in/shraddha-anand1/' target="_blank"><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30px' width='30px'></a>
 <a href='https://github.com/sanand100' target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30px' width='30px'></a>
-[Email](mailto:shraddhaanand2@gmail.com)
-
+<a href="mailto:shraddhaanand2@gmail.com" target='_blank'><img src='https://cdn.pixabay.com/photo/2014/04/03/09/58/email-309491_1280.png' height='30px' width='30px'></a>
