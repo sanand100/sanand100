@@ -3,11 +3,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanand100&label=Profile%20views&color=0e75b6&style=flat" alt="sanand100" /> </p> -->
 
-- My Current Project: [TravelTips](https://github.com/sanand100/travel-tips)
+- My Current Project: [Moving Co.](https://github.com/AnAppThatMovesYou)
 
 - All of my Projects:  [GitHub](https://github.com/sanand100)
 
-- My Past Experiences: [Resume](https://github.com/sanand100/sanand100/blob/main/ShraddhaAnand_resume.pdf)
+- My Past Experiences: [Resume](https://github.com/sanand100/Resume/blob/main/ShraddhaAnand_Resume.pdf)
 
 
 <h3 align="left">Programming Languages:</h3>
